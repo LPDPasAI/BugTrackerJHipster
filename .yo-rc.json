@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.lpdp.bugtracker",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "monolith",
+    "baseName": "BugTrackerJHipster",
+    "packageName": "com.lpdp.bugtracker",
+    "packageFolder": "com/lpdp/bugtracker",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmYzNzZlMmU2YWJiZDQxZjJjODYwZjg1M2Y3ZmMzYjc2YTkyNWQ2OWNmOGMxNjM1YjA5YTAwOTNhOGUzZjAzMjRlYjA2ZGU5NTUxZWQ4OGY1ZDk1OTQ3ZDY4MmUyZDcxNDc0NTY0MTRmZDU5NmIwZmJmMDJjMzgxZjlhZjM5MDc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": ["gatling", "cucumber", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr", "de", "it", "es"],
+    "blueprints": []
+  }
+}
